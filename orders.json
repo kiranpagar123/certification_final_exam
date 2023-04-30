@@ -1,0 +1,33 @@
+[
+    {
+      "user_id": "123",
+      "order_id": "1",
+      "items": [
+        {
+          "name": "Vegan Burger",
+          "price": 320,
+          "quantity": 1
+        },
+        {
+          "name": "Truffle Cake",
+          "price": 900,
+          "quantity": 1
+        }
+      ],
+      "total_price": 1220,
+      "timestamp": "2022-03-16T08:26:30Z"
+    },
+    {
+      "user_id": "123",
+      "order_id": "2",
+      "items": [
+        {
+          "name": "Tandoori Chicken",
+          "price": 240,
+          "quantity": 2
+        }
+      ],
+      "total_price": 480,
+      "timestamp": "2022-03-17T09:30:20Z"
+    }
+  ]
